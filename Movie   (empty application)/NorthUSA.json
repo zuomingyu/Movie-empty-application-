@@ -1,0 +1,197 @@
+{   "date" : "4月19日 - 4月21日",
+    "subjects":[
+                {"box" : 38152000,
+                 "new" : true,
+                "rank" : 1,
+                "subject" : {
+                    "rating" : {"max" : 10, "average" : 6.7, "stars" : "35", "min" : 0},
+                    "title" : "遗落战境",
+                    "original_title" : "Oblivion",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                        "large" : "http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                        "medium" : "http://img3.douban.com/view/movie_poster_cover/spst/public/p1931650344.jpg"
+                    },
+                    "alt" : "http://movie.douban.com/subject/3895511/",
+                   "id" : "3895511"}
+                },
+                
+                
+                {"box" : 18025000,
+                "new" : false,
+                "rank" : 2,
+                "subject" : {
+                    "rating" : {"max" : 10, "average" : 7.5, "stars" : "40", "min" : 0},
+                    "title" : "42号传奇",
+                    "original_title" : "42",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/view/photo/icon/public/p1874017507.jpg",
+                        "large" : "http://img3.douban.com/view/movie_poster_cover/lpst/public/p1874017507.jpg",
+                        "medium" : "http://img3.douban.com/view/movie_poster_cover/spst/public/p1874017507.jpg"
+                    },
+                    "alt" : "http://movie.douban.com/subject/2133379/",
+                   "id" : "2133379"}
+                },
+                
+                
+                {"box" : 9500000,
+                "new" : false,
+                "rank" : 3,
+                "subject" : {
+                    "rating" : {"max" : 10, "average" : 9.2, "stars" : "45", "min" : 0},
+                    "title" : "疯狂原始人",
+                    "original_title" : "The Croods",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/view/photo/icon/public/p1867084027.jpg",
+                        "large" : "http://img3.douban.com/view/movie_poster_cover/lpst/public/p1867084027.jpg",
+                        "medium" : "http://img3.douban.com/view/movie_poster_cover/spst/public/p1867084027.jpg"
+                    },
+                    "alt" : "http://movie.douban.com/subject/1907966/",
+                    "id" : "1907966"}
+                },
+                
+                
+                {"box" : 6296000,
+                "new" : false,
+                "rank" : 4,
+                "subject" : {
+                    "rating" : {"max" : 10, "average" : 6.7, "stars" : "35", "min" : 0},
+                    "title" : "惊声尖笑5",
+                    "original_title" : "Scary Movie 5",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/view/photo/icon/public/p1898144743.jpg",
+                        "large" : "http://img3.douban.com/view/movie_poster_cover/lpst/public/p1898144743.jpg",
+                        "medium" : "http://img3.douban.com/view/movie_poster_cover/spst/public/p1898144743.jpg"
+                    },
+                    "alt" : "http://movie.douban.com/subject/1949877/",
+                    "id" : "1949877"}
+                },
+                
+                {"box" : 5775000,
+                "new" : false,
+                "rank" : 5,
+                "subject" : {"rating" : {"max" : 10, "average" : 6.5, "stars" : "35", "min" : 0},
+                    "title" : "特种部队：全面反击",
+                    "original_title" : "G.I. Joe: Retaliation",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/spic/s9099728.jpg",
+                        "large" : "http://img3.douban.com/lpic/s9099728.jpg",
+                        "medium" : "http://img3.douban.com/mpic/s9099728.jpg"
+                    },
+                    "alt" : "http://movie.douban.com/subject/4301181/",
+                    "id" : "4301181"}
+                },
+                
+                {"box" : 4746000,
+                "new" : false,
+                "rank" : 6,
+                "subject" :
+                    {"rating" : {"max" : 10, "average" : 7.5, "stars" : "40", "min" : 0},
+                    "title" : "松林外",
+                    "original_title" : "The Place Beyond the Pines",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/spic/s24941706.jpg",
+                        "large" : "http://img3.douban.com/lpic/s24941706.jpg",
+                        "medium" : "http://img3.douban.com/mpic/s24941706.jpg"
+                    },
+                    "alt" : "http://movie.douban.com/subject/5966609/",
+                    "id" : "5966609"}
+                },
+                {"box" : 4500000,
+                "new" : false,
+                "rank" : 7,
+                "subject" : {
+                    "rating" : {"max" : 10, "average" : 6.5, "stars" : "35", "min" : 0},
+                    "title" : "奥林匹斯陷落",
+                    "original_title" : "Olympus Has Fallen",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/spic/s24920578.jpg",
+                        "large":"http://img3.douban.com/lpic/s24920578.jpg",
+                        "medium":"http://img3.douban.com/mpic/s24920578.jpg"},
+                    "alt" : "http://movie.douban.com/subject/10743974/",
+                    "id" : "10743974"}
+                },
+                
+                {"box" : 4100000,
+                "new" : false,
+                "rank": 8,
+                "subject":
+                    {
+                    "rating" : {"max" : 10, "average" : 6.4, "stars" : "35", "min" : 0},
+                    "title" : "鬼玩人",
+                    "original_title" : "Evil Dead",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/spic/s24423654.jpg",
+                        "large":"http://img3.douban.com/lpic/s24423654.jpg",
+                        "medium":"http://img3.douban.com/mpic/s24423654.jpg"},
+                    "alt":"http://movie.douban.com/subject/3212400/",
+                    "id":"3212400"}
+                },
+                
+                {"box" : 4008000,
+                "new" : false,
+                "rank" : 9,
+                "subject" :
+                    {"rating" : {"max" : 10, "average" : 7.9, "stars" : "40", "min" : 0},
+                    "title" : "侏罗纪公园",
+                    "original_title" : "Jurassic Park",
+                    "subtype" : "movie",
+                    "year" : "1993",
+                    "images" : {
+                        "small" : "http://img3.douban.com/spic/s1325502.jpg",
+                        "large" : "http://img3.douban.com/lpic/s1325502.jpg",
+                        "medium" : "http://img3.douban.com/mpic/s1325502.jpg"},
+                        "alt" : "http://movie.douban.com/subject/1292523/",
+                    "id" : "1292523"}
+                },
+                
+                {"box" : 3048000,
+                "new" : false,
+                "rank" : 10,
+                "subject" :
+                    {"rating" : {"max" : 10, "average" : 6.4, "stars" : "35", "min" : 0},
+                    "title" : "魔境仙踪",
+                    "original_title" : "Oz: The Great and Powerful",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img3.douban.com/spic/s24518203.jpg",
+                        "large" : "http://img3.douban.com/lpic/s24518203.jpg",
+                        "medium" : "http://img3.douban.com/mpic/s24518203.jpg"},
+                    "alt" : "http://movie.douban.com/subject/4816602/",
+                    "id" : "4816602"}
+                },
+                
+                {"box" : 2200000,
+                "new" : false,
+                "rank" : 11,
+                "subject" :
+                    {"rating" : {"max" : 10, "average" : 6.8, "stars" : "35", "min" : 0},
+                    "title" : "婚姻顾问",
+                    "original_title" : "Tyler Perry's Temptation: Confessions of a Marriage Counselor",
+                    "subtype" : "movie",
+                    "year" : "2013",
+                    "images" : {
+                        "small" : "http://img5.douban.com/spic/s24602809.jpg",
+                        "large" : "http://img5.douban.com/lpic/s24602809.jpg",
+                        "medium" :"http://img5.douban.com/mpic/s24602809.jpg"},
+                        "alt" : "http://movie.douban.com/subject/10432234/",
+                    "id" : "10432234"}
+                }],
+    "title" : "电影北美票房榜"}
